@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exame da Ordem</string>
+    <string name="action_reset">Recomeçar o Teste</string>
+    <string name="exam_2014_3_T1">XV Exame de Ordem - 2014.3 - Tipo 1 Branca</string>
+    <string name="exam_ethics">Ética</string>
+    <string name="action_expand">Expandir</string>
+    <string name="action_next">Próxima</string>
+    <string name="example_category">Ética > SubCategoria</string>
+    <string name="example_question">Abelardo é magistrado vinculado ao Tribunal de Justiça do Estado K e requer licença para tratamento de questões particulares, pelo prazo de três anos, o que foi deferido. Como, antes de assumir o referido cargo, era advogado regularmente inscrito nos quadros da OAB, requer o seu reingresso, comprovando o afastamento das funções judicantes. Nos termos do Estatuto da Advocacia, assinale a afirmativa correta. (XV Exame OAB Unificado - 2014.2 - Tipo 1 Branca)</string>
+    <string name="example_answer_A">A incompatibilidade com a advocacia persiste aposentadoria do cargo efetivo.</string>
+    <string name="example_answer_B">O afastamento temporário do cargo afastamento temporário do cargo que gera a incompatibilidade permite inscrição provisória.</string>
+    <string name="example_answer_C">A incompatibilidade permanece mesmo que ocorra o afastamento temporário do cargo.</string>
+    <string name="example_answer_D">O afastamento do cargo incompatível permite a inscrição após um período de três anos.</string>
+    <string name="expand_answer">Expandir Resposta</string>
+
+</resources>

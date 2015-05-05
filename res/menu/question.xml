@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="oab.questions.activity.QuestionActivity" >
+    
+    <item
+        android:id="@+id/action_reset"
+        android:showAsAction="never"
+        android:icon="@drawable/ic_action_replay"
+        android:title="@string/action_reset" />
+    
+    <item
+        android:id="@+id/action_next"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_next_item"
+        android:title="@string/action_next" />
+
+</menu>

@@ -1,0 +1,22 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    
+    <style name="Answer" parent="AppBaseTheme">
+        <item name="android:height">0dip</item>
+        <item name="android:paddingRight">14dip</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:drawablePadding">8dip</item>
+    </style>
+    
+    <style name="Title" parent="AppBaseTheme">
+        <item name="android:background">#FF5252</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="Button" parent="AppBaseTheme">
+        <item name="android:padding">20dip</item>
+    </style>
+</resources>

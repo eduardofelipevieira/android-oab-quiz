@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="oab.questions.activity.MainActivity"
+    android:background="#1B1B1B"
+    android:padding="20dip">
+    <Button
+        android:id="@+id/btn_2014_3_T1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exam_2014_3_T1"
+        style="@style/Button" />
+    
+    <Button
+        android:id="@+id/btn_ethics"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exam_ethics"
+        android:layout_below="@id/btn_2014_3_T1"
+        style="@style/Button" />
+</RelativeLayout>
